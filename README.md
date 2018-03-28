@@ -27,6 +27,11 @@ User Story:
 
 Current build: https://drive.google.com/open?id=1j_zxQX4TyiLTJkphot1SR0RZzRikqueU
 
+Running the game (IndieDB):
+Download V0.2.0.zip, extract all files to new folder, run v0.2.0.exe
+
+Current build (IndieDB): http://www.indiedb.com/engines/unityagk-action-game-kit/downloads/a-well-balanced-breakfast#downloadsform
+
 Youtube Video: https://youtu.be/Bn_rQrmtN5E
 
 `[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/The-Mystery-Machine1/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
